@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Lato&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+header {
+    background: url(../img/fond.jpg) center top no-repeat fixed;
+    background-size: cover;
+    height: 800 px;
+    position: relative;
+}
+.navbar-brand {
+font-family: 'Acme';
+}
+
+h1{
+    margin: 18% 0 18% 15%;
+    padding-bottom: 12%;
+    font-family: 'Lato';
+    font-weight: 500;
+    color: #000;
+}

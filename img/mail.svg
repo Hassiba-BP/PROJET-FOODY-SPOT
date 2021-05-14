@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="20" height="21" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_3" data-name="Groupe 3" transform="translate(-204 -1289)">
+    <g id="Groupe_21" data-name="Groupe 21" transform="translate(204 1289)">
+      <g id="Ellipse_224" data-name="Ellipse 224" fill="#fff" stroke="#fff" stroke-width="2">
+        <circle cx="19" cy="19" r="19" stroke="none"/>
+        <circle cx="19" cy="19" r="18" fill="none"/>
+      </g>
+      <g id="Composant_49_2" data-name="Composant 49 – 2" transform="translate(9 8)" clip-path="url(#clip-path)">
+        <rect id="Rectangle_117" data-name="Rectangle 117" width="19" height="20" fill="none"/>
+        <path id="Tracé_50" data-name="Tracé 50" d="M16.679,2.744H2.383L9.531,9.6ZM0,2.744A2.59,2.59,0,0,1,2.383,0h14.3a2.59,2.59,0,0,1,2.383,2.744V13.719a2.59,2.59,0,0,1-2.383,2.744H2.383A2.59,2.59,0,0,1,0,13.719Z" transform="translate(0 1.733)" fill="#ff6c2b" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

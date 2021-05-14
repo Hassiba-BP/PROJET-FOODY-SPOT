@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+header {
+    background: url(../img/fond.jpg) center top no-repeat;
+    background-size: cover;
+    position: relative;
+}
