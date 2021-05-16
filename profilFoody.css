@@ -1,0 +1,56 @@
+/*header*/
+header{
+    text-align: center;
+}
+#description{
+    padding-bottom: 50px;
+}
+#identification{
+    display: flex;
+    justify-content: center;
+}
+#nom{
+    padding-right: 15px;
+}
+#choix{
+    display: flex;
+    justify-content: center;
+}
+
+/*Tableau de bord*/
+#tableauDeBord{
+    padding-left: 30px;
+}
+#Message{
+    display: flex;
+}
+#Paramètres{
+    display:flex;
+}
+#Confidentialité{
+    display:flex;
+}
+#Notifications{
+    display:flex;
+}
+#Compte{
+    display: flex;
+}
+#FAQ{
+    display: flex;
+}
+.liensTab{
+    padding-left: 60px;
+}
+
+/*Ma vitrine*/
+
+#Vitrine{
+    display: flex;
+}
+.plat{
+    background-color: gray;
+}
+#carte{
+    display: flex;
+}
