@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="403" height="554" viewBox="0 0 403 554">
+  <defs>
+    <filter id="Rectangle_667" x="1" y="29" width="402" height="525" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Pop_over" data-name="Pop over" transform="translate(14 -72)">
+    <g transform="matrix(1, 0, 0, 1, -14, 72)" filter="url(#Rectangle_667)">
+      <rect id="Rectangle_667-2" data-name="Rectangle 667" width="312" height="435" rx="6" transform="translate(46 44)" fill="#f7e8c5"/>
+    </g>
+    <g id="hero" transform="translate(-14 72)">
+      <circle id="Ellipse_217" data-name="Ellipse 217" cx="194.5" cy="194.5" r="194.5" fill="#fff" opacity="0.2"/>
+      <circle id="Ellipse_218" data-name="Ellipse 218" cx="114.5" cy="114.5" r="114.5" transform="translate(80 80)" fill="#fff" opacity="0.2"/>
+      <circle id="Ellipse_219" data-name="Ellipse 219" cx="94.5" cy="94.5" r="94.5" transform="translate(100 100)" fill="#fff" opacity="0.5"/>
+      <circle id="Ellipse_220" data-name="Ellipse 220" cx="51.5" cy="51.5" r="51.5" transform="translate(151 150)" fill="#fff"/>
+      <path id="Union_39" data-name="Union 39" d="M0,40V35c0-5.5,9-10,20-10s20,4.5,20,10v5ZM10,10A10,10,0,1,1,20,20,10,10,0,0,1,10,10Z" transform="translate(77 238)" fill="#ffb500"/>
+    </g>
+  </g>
+</svg>

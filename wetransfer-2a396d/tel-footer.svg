@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="69" viewBox="0 0 70 69">
+  <g id="Groupe_16" data-name="Groupe 16" transform="translate(0.488)">
+    <g id="Groupe_238" data-name="Groupe 238" transform="translate(0)">
+      <g id="Ellipse_225" data-name="Ellipse 225" transform="translate(-0.488)" fill="#fff" stroke="#fff" stroke-width="2">
+        <ellipse cx="35" cy="34.5" rx="35" ry="34.5" stroke="none"/>
+        <ellipse cx="35" cy="34.5" rx="34" ry="33.5" fill="none"/>
+      </g>
+      <g id="Composant_143_1" data-name="Composant 143 – 1" transform="translate(23.512 20)">
+        <rect id="Rectangle_320" data-name="Rectangle 320" width="24" height="24" transform="translate(0 0)" fill="none"/>
+        <path id="Tracé_110" data-name="Tracé 110" d="M14.108,17.364l2.6-2.388a.8.8,0,0,1,.651-.217l.434.217L23.876,17.8c.434.217.434.434.434.868a5.5,5.5,0,0,1-1.736,3.907,6.218,6.218,0,0,1-4.558,1.736,13.225,13.225,0,0,1-6.077-1.519A28.454,28.454,0,0,1,5.86,18.449,36.97,36.97,0,0,1,2.6,13.674,30,30,0,0,1,.434,8.9,13.357,13.357,0,0,1,0,4.775,5.7,5.7,0,0,1,1.519,1.519C2.388.651,3.69.217,5.643,0a1.128,1.128,0,0,1,.868.434L9.767,6.512a.758.758,0,0,0,.217.434.8.8,0,0,1-.217.651L6.946,10.2a.969.969,0,0,0,0,1.085,20.727,20.727,0,0,0,2.6,3.473,21.915,21.915,0,0,0,3.473,2.822C13.457,17.8,13.891,17.8,14.108,17.364Z" transform="translate(0 0)" fill="#ffb500"/>
+      </g>
+    </g>
+  </g>
+</svg>
