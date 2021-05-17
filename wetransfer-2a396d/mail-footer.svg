@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="67" viewBox="0 0 67 67">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="35" height="36" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_17" data-name="Groupe 17" transform="translate(0.422 -0.087)">
+    <g id="Groupe_21" data-name="Groupe 21" transform="translate(0 0)">
+      <g id="Groupe_246" data-name="Groupe 246">
+        <g id="Ellipse_224" data-name="Ellipse 224" transform="translate(-0.422 0.087)" fill="#fff" stroke="#fff" stroke-width="2">
+          <circle cx="33.5" cy="33.5" r="33.5" stroke="none"/>
+          <circle cx="33.5" cy="33.5" r="32.5" fill="none"/>
+        </g>
+        <g id="Composant_49_1" data-name="Composant 49 – 1" transform="translate(16.578 14.087)" clip-path="url(#clip-path)">
+          <rect id="Rectangle_117" data-name="Rectangle 117" width="34" height="36" transform="translate(0 0)" fill="none"/>
+          <path id="Tracé_50" data-name="Tracé 50" d="M29.178,4.8H4.168l12.5,12ZM0,4.8C0,2.16,1.876,0,4.168,0h25.01c2.293,0,4.168,2.16,4.168,4.8V24c0,2.64-1.876,4.8-4.168,4.8H4.168C1.876,28.8,0,26.639,0,24Z" transform="translate(0 3.032)" fill="#ffb500" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
