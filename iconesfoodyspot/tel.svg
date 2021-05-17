@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="33" viewBox="0 0 34 33">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="12" height="12" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_2" data-name="Groupe 2" transform="translate(-267 -1287)">
+    <g id="Ellipse_225" data-name="Ellipse 225" transform="translate(267 1287)" fill="#fff" stroke="#fff" stroke-width="2">
+      <ellipse cx="17" cy="16.5" rx="17" ry="16.5" stroke="none"/>
+      <ellipse cx="17" cy="16.5" rx="16" ry="15.5" fill="none"/>
+    </g>
+    <g id="Composant_143_1" data-name="Composant 143 – 1" transform="translate(279 1297)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_320" data-name="Rectangle 320" width="12" height="12" fill="none"/>
+      <path id="Tracé_110" data-name="Tracé 110" d="M6.926,8.525,8.2,7.352a.391.391,0,0,1,.32-.107l.213.107,2.984,1.385c.213.107.213.213.213.426a2.7,2.7,0,0,1-.852,1.918,3.052,3.052,0,0,1-2.238.852,6.493,6.493,0,0,1-2.984-.746A13.969,13.969,0,0,1,2.877,9.057a18.15,18.15,0,0,1-1.6-2.344A14.729,14.729,0,0,1,.213,4.369,6.557,6.557,0,0,1,0,2.344,2.8,2.8,0,0,1,.746.746,3.241,3.241,0,0,1,2.77,0,.554.554,0,0,1,3.2.213L4.8,3.2A.372.372,0,0,0,4.9,3.41a.391.391,0,0,1-.107.32L3.41,5.008a.476.476,0,0,0,0,.533,10.176,10.176,0,0,0,1.279,1.7,10.759,10.759,0,0,0,1.7,1.385C6.607,8.738,6.82,8.738,6.926,8.525Z" transform="translate(0 0)" fill="#ff6c2b"/>
+    </g>
+  </g>
+</svg>

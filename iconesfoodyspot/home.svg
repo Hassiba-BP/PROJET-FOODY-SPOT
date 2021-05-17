@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="28" height="28" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon_home" clip-path="url(#clip-path)">
+    <path id="Tracé_357" data-name="Tracé 357" d="M27.267,9.076,15.017.326a1.751,1.751,0,0,0-2.034,0L.733,9.076a1.75,1.75,0,0,0,2.034,2.849L3.5,11.4V26.25A1.75,1.75,0,0,0,5.25,28h17.5a1.75,1.75,0,0,0,1.75-1.75V11.4a2.983,2.983,0,0,0,1.748.849,1.75,1.75,0,0,0,1.019-3.174ZM21,24.5H17.5V19.25a3.5,3.5,0,0,0-7,0V24.5H7V8.9l7-5,7,5Z" transform="translate(0)" fill="#ff6c2b"/>
+  </g>
+</svg>

@@ -19,7 +19,9 @@ header{
 
 /*Tableau de bord*/
 #tableauDeBord{
-    padding-left: 30px;
+    padding:0px 100px 0px 100px;
+    display: flex;
+    justify-content: space-between;
 }
 #Message{
     display: flex;
@@ -44,13 +46,47 @@ header{
 }
 
 /*Ma vitrine*/
-
+#maVitrine{
+    padding:0px 100px 0px 100px;
+}
 #Vitrine{
     display: flex;
+   justify-content:space-between ;
+}
+#plat1{
+    margin-bottom: 20px;
+}
+#plat2{
+    margin-bottom: 20px;
+}
+#plat3{
+    margin-bottom: 20px;
+}
+#plat4{
+    margin-bottom: 20px;
 }
 .plat{
-    background-color: gray;
+    background-color: #ffd96d;
+   
 }
 #carte{
     display: flex;
+    justify-content: space-between;
+}
+.modif{
+    padding-right: 100px;
+    padding-top: 20px;
+    width: 50px;
+    cursor: pointer;
+}
+.supp{
+    padding-right: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+#avis{
+    display: flex;
+}
+.comment{
+    padding-left: 40px;
 }
