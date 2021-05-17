@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="23" height="23" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Composant_147_1" data-name="Composant 147 – 1" clip-path="url(#clip-path)">
+    <rect id="Rectangle_193" data-name="Rectangle 193" width="23" height="23" fill="none"/>
+    <path id="Tracé_104" data-name="Tracé 104" d="M270.954,14.375a2.875,2.875,0,1,0-2.921-2.875A2.907,2.907,0,0,0,270.954,14.375Zm-5.988-9.2a8.278,8.278,0,0,1,3.505-1.869L269.639,0h2.921l1.168,3.306a10.25,10.25,0,0,1,3.505,1.869l3.505-.719L282.2,7.044l-2.337,2.588a8.07,8.07,0,0,1,.146,1.869c0,.575-.146,1.294-.146,1.869l2.337,2.587-1.461,2.588-3.505-.719a8.277,8.277,0,0,1-3.505,1.869L272.56,23h-2.921l-1.168-3.306a10.25,10.25,0,0,1-3.505-1.869l-3.505.719L260,15.956l2.337-2.588a8.07,8.07,0,0,1-.146-1.869c0-.575.146-1.294.146-1.869L260,7.044l1.461-2.588Z" transform="translate(-260)" fill="#f25a23" fill-rule="evenodd"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.556" height="20.556" viewBox="0 0 20.556 20.556">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="19.559" height="19.559" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Composant_50_1" data-name="Composant 50 – 1" transform="translate(1.024) rotate(3)" clip-path="url(#clip-path)">
+    <rect id="Rectangle_118" data-name="Rectangle 118" width="19.559" height="19.559" fill="none"/>
+    <path id="Tracé_49" data-name="Tracé 49" d="M8.78,9.78a2.446,2.446,0,1,1-2.508,2.445A2.485,2.485,0,0,1,8.78,9.78Zm0-7.335A2.485,2.485,0,0,0,6.271,4.89h5.017A2.485,2.485,0,0,0,8.78,2.445Zm6.271,17.114H2.508A2.485,2.485,0,0,1,0,17.114V7.335A2.485,2.485,0,0,1,2.508,4.89H3.763A4.969,4.969,0,0,1,8.78,0,4.969,4.969,0,0,1,13.8,4.89h1.254a2.485,2.485,0,0,1,2.508,2.445v9.78A2.485,2.485,0,0,1,15.051,19.559Z" transform="translate(1)" fill="#ffb08d" fill-rule="evenodd"/>
+  </g>
+</svg>
