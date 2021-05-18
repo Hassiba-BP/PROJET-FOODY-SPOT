@@ -44,13 +44,13 @@
  #Enregistrer{
      margin-left: 750px;
      margin-top: 50px;
-     -moz-box-shadow: 0px 0px 0px 2px #9fb4f2;
-	-webkit-box-shadow: 0px 0px 0px 2px #9fb4f2;
-	box-shadow: 0px 0px 0px 2px #9fb4f2;
+     -moz-box-shadow: 0px 0px 0px 2px #FFB500;
+	-webkit-box-shadow: 0px 0px 0px 2px #FFB500;
+	box-shadow: 0px 0px 0px 2px #FFB500;
 	background:-moz-linear-gradient( center top, #7892c2 5%, #476e9e 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7892c2', endColorstr='#476e9e');
-	background-color:#7892c2;
-	-webkit-border-top-left-radius:5px;
+	background-color:#FFB500;
+	/*-webkit-border-top-left-radius:5px;
 	-moz-border-radius-topleft:5px;
 	border-top-left-radius:5px;
 	-webkit-border-top-right-radius:5px;
@@ -61,7 +61,7 @@
 	border-bottom-right-radius:5px;
 	-webkit-border-bottom-left-radius:5px;
 	-moz-border-radius-bottomleft:5px;
-	border-bottom-left-radius:5px;
+	border-bottom-left-radius:5px;*/
 text-indent:0;
 	display:inline-block;
 	color:#ffffff;
