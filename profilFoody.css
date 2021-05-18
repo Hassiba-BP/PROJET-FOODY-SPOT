@@ -1,6 +1,7 @@
 /*header*/
 header{
     text-align: center;
+    font-family: 'Lato', sans-serif;
 }
 #description{
     padding-bottom: 50px;
@@ -105,10 +106,13 @@ width:140px;
 a{
     text-decoration: none;
     color: black;
+    font-family: 'Lato', sans-serif;
+    
 }
 #Titre1{
     margin-top: 50px;
     margin-bottom: 50px;
+    font-family: 'Acme', sans-serif;
 }
 #Icone{
    display: flex;
@@ -141,6 +145,7 @@ a{
 #maVitrine{
     padding:0px 250px 0px 250px;
     margin-top: 50px;
+    font-family: 'Acme', sans-serif;
 }
 #Vitrine{
     display: flex;
