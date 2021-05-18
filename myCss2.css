@@ -1,0 +1,122 @@
+body{
+    position: relative;
+}
+#buttonHeader{
+    position: fixed;
+    right: 5%;
+    top: 17%;
+    z-index: 400;
+    background-color: #ffffff;
+    color: black;
+}
+h1.myFoodies{
+    position: fixed;
+    z-index: 600;
+    left: 5%;
+}
+#fixed{
+    position: fixed;
+    display: block;
+    z-index: 200;
+    left: 90%;
+}
+.container2{
+    padding: 7em;
+}
+.modalhihi{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 300;
+    background-color: white;
+    width: 45%;
+    height: 90%;
+
+}
+
+.modalhihi p{
+    color: black;
+}
+
+#myOverlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .5);
+    z-index: 200;
+    display: none;
+
+}
+.modalhihi{
+    display: none;
+}
+
+#modalSupp{
+    position: relative;
+}
+#btnColor{
+    background-color: unset;
+    border-color: unset;
+    position: fixed;
+    right: 3%;
+    z-index: 300;
+}
+#connexion{
+    position: fixed;
+    right: 3%;
+    top: 20%;
+    z-index: 300;
+}
+h1{
+    color: black;
+    font-family: "Acme" sans-serif;
+}
+
+#myHeader{
+    padding-bottom: 3%;
+}
+#closeButton{
+    position: fixed;
+    right: 4%;
+    top: 4%;
+}
+#modalPrem .show{
+    display: block;
+}
+
+
+#myContainer:first-child{
+    padding-bottom: 1em;
+}
+ iframe{
+    width: 100%;
+    height: 100%;
+ }
+
+#mapInfo li{
+    text-decoration: none;
+    color: #000;
+    list-style: none;
+    text-align: left;
+  }
+
+#mapH2{
+    color: #F25A23;
+    text-align: left;
+    padding-left: 1.2em;
+  }
+
+  #rowHeader{
+      display: block;
+  }
+
+
+  @media (max-width: 576px) {
+    .row{
+      display: flex;
+      flex-direction: column;
+    }
+  }
