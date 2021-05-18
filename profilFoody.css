@@ -26,7 +26,7 @@ header{
 	box-shadow:inset 0px 39px 0px -24px #FFB500
     ;
 	background-color:#FFB500;
-	-webkit-border-top-left-radius:5px;
+	/*-webkit-border-top-left-radius:5px;
 	-moz-border-radius-topleft:5px;
 	border-top-left-radius:5px;
 	-webkit-border-top-right-radius:5px;
@@ -37,7 +37,7 @@ header{
 	border-bottom-right-radius:5px;
 	-webkit-border-bottom-left-radius:5px;
 	-moz-border-radius-bottomleft:5px;
-	border-bottom-left-radius:5px;
+	border-bottom-left-radius:5px;*/
 text-indent:0;
 	display:inline-block;
 	color:#ffffff;
@@ -65,7 +65,7 @@ width:140px;
     ;
 	background-color:#BFBABA
     ;
-	-webkit-border-top-left-radius:5px;
+	/*-webkit-border-top-left-radius:5px;
 	-moz-border-radius-topleft:5px;
 	border-top-left-radius:5px;
 	-webkit-border-top-right-radius:5px;
@@ -76,7 +76,7 @@ width:140px;
 	border-bottom-right-radius:5px;
 	-webkit-border-bottom-left-radius:5px;
 	-moz-border-radius-bottomleft:5px;
-	border-bottom-left-radius:5px;
+	border-bottom-left-radius:5px;*/
 text-indent:0;
 	display:inline-block;
 	color:white;
@@ -100,6 +100,11 @@ width:140px;
     display: flex;
     justify-content: space-between;
     margin-top: 50px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 #Titre1{
     margin-top: 50px;
@@ -107,9 +112,11 @@ width:140px;
 }
 #Icone{
    display: flex;
+   
 }
 #Paramètres{
     display:flex;
+    
 }
 #Confidentialité{
     display:flex;
