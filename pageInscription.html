@@ -6,11 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inscription</title>
     <link rel="stylesheet" href="../pageInscription.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet"> 
 </head>
 <body>
     <h1 id="titre">Merci de remplir les champs</h1>
-    <form action="" method="post">
-        <div id="Nom" class="place">
+    <div id="form">
+         <div id="Nom" class="place">
             <label for="Nom" id="nomForm">Nom</label>
             <input type="text" class="input">
         </div>
@@ -42,7 +47,35 @@
             <input type="text" class="input">
 
         </div>
-        <button id="Enregistrer">Enregistrer</button>
-    </form>
+            <button id="Enregistrer" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#inscriptionModal">Enregistrer</button>
+    </div>
+    
+        <!--<div id="modal">
+            <div id="contenu-modal">
+                
+            </div>
+        </div>-->
+        
+        <div  class="modal fade" id="inscriptionModal" tabindex="-1" aria-labelledby="inscriptionModalLabel" aria-hidden="true">
+            <div class="modal-dialog" >
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <img src="../wetransfer-2a396d/inscription-connexion.svg" alt="Profil">
+                    </div>
+                    <div class="modal-body">
+                        <p>Nous vous confirmons la création de votre compte!</p> 
+                        <p>N'attendez plus pour commandez.</p>  
+                    </div>
+                    <div class="modal-footer">
+                        <h3 id="Logo">Foody Spot</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+    <!--<script src="../pageInscription.js"></script>-->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
 </body>
 </html>

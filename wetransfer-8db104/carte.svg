@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="304.554" height="57.463" viewBox="0 0 304.554 57.463">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="17.239" height="17.239" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Tabs" transform="translate(-40 -100)">
+    <g id="Tab" transform="translate(40 100)">
+      <g id="Ellipse_173" data-name="Ellipse 173" fill="#fff" stroke="#fff" stroke-width="2">
+        <circle cx="28.732" cy="28.732" r="28.732" stroke="none"/>
+        <circle cx="28.732" cy="28.732" r="27.732" fill="none"/>
+      </g>
+      <g id="Composant_62_1" data-name="Composant 62 – 1" transform="translate(20.112 20.112)" clip-path="url(#clip-path)">
+        <rect id="Rectangle_176" data-name="Rectangle 176" width="17.239" height="17.239" fill="none"/>
+        <path id="Tracé_99" data-name="Tracé 99" d="M16.36,14.919l-3.4-3.4A7.045,7.045,0,0,0,14.4,7.2,7.158,7.158,0,0,0,7.2,0,7.158,7.158,0,0,0,0,7.2a7.158,7.158,0,0,0,7.2,7.2,7.045,7.045,0,0,0,4.321-1.44l3.4,3.4ZM2.058,7.2A5.1,5.1,0,0,1,7.2,2.058,5.1,5.1,0,0,1,12.347,7.2,5.1,5.1,0,0,1,7.2,12.347,5.1,5.1,0,0,1,2.058,7.2Z" fill="#ff7948"/>
+      </g>
+    </g>
+    <g id="Tab-2" data-name="Tab" transform="translate(121.885 100)">
+      <g id="Ellipse_174" data-name="Ellipse 174" transform="translate(0)" fill="#fff" stroke="#fff" stroke-width="2">
+        <circle cx="28.732" cy="28.732" r="28.732" stroke="none"/>
+        <circle cx="28.732" cy="28.732" r="27.732" fill="none"/>
+      </g>
+      <g id="Composant_140_1" data-name="Composant 140 – 1" transform="translate(20.112 20.112)" clip-path="url(#clip-path)">
+        <rect id="Rectangle_252" data-name="Rectangle 252" width="17.239" height="17.239" fill="none"/>
+        <path id="Tracé_110" data-name="Tracé 110" d="M8.231,10.289A2.058,2.058,0,1,0,6.173,8.231,2.064,2.064,0,0,0,8.231,10.289Zm0-6.173A4.116,4.116,0,1,1,4.116,8.231,4.128,4.128,0,0,1,8.231,4.116ZM14.4,15.433H2.058a2.031,2.031,0,0,1-1.44-.617A2.031,2.031,0,0,1,0,13.376V4.116A2.064,2.064,0,0,1,2.058,2.058H3.7L5.247.514A1.7,1.7,0,0,1,6.482,0h3.6a1.652,1.652,0,0,1,1.132.514l1.543,1.543H14.4a2.064,2.064,0,0,1,2.058,2.058v9.26A2.064,2.064,0,0,1,14.4,15.433Z" transform="translate(0 1.029)" fill="#ff7948" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="Tab-3" data-name="Tab" transform="translate(205.206 100)">
+      <g id="Ellipse_175" data-name="Ellipse 175" transform="translate(0)" fill="#fff" stroke="#fff" stroke-width="2">
+        <circle cx="28.732" cy="28.732" r="28.732" stroke="none"/>
+        <circle cx="28.732" cy="28.732" r="27.732" fill="none"/>
+      </g>
+      <g id="Composant_14_2" data-name="Composant 14 – 2" transform="translate(20.112 20.112)" clip-path="url(#clip-path)">
+        <path id="Union_1" data-name="Union 1" d="M7.542,17.239V9.7H0V7.542H7.542V0H9.7V7.542h7.542V9.7H9.7v7.542Z" fill="#ff7948"/>
+      </g>
+    </g>
+    <g id="Tab-4" data-name="Tab" transform="translate(287.091 100)">
+      <g id="Ellipse_176" data-name="Ellipse 176" transform="translate(0)" fill="#fff" stroke="#fff" stroke-width="2">
+        <circle cx="28.732" cy="28.732" r="28.732" stroke="none"/>
+        <circle cx="28.732" cy="28.732" r="27.732" fill="none"/>
+      </g>
+      <g id="Composant_6_1" data-name="Composant 6 – 1" transform="translate(20.112 20.112)" clip-path="url(#clip-path)">
+        <path id="Union_1-2" data-name="Union 1" d="M0,17.239V15.084c0-2.371,3.879-4.31,8.619-4.31s8.619,1.939,8.619,4.31v2.155ZM4.309,4.31a4.31,4.31,0,1,1,4.31,4.309A4.31,4.31,0,0,1,4.309,4.31Z" fill="#ff7948"/>
+      </g>
+    </g>
+  </g>
+</svg>

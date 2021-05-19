@@ -6,9 +6,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Profil Foody</title>
     <link rel="stylesheet" href="../profilFoody.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet"> 
+    <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+        <!-- Simple line icons-->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="../styles.css" rel="stylesheet" />
+        <!--<link href="../myCSS.css" rel="stylesheet" />-->
+        <!--<link href="../myCss2.css" rel="stylesheet" />-->
+        <!--<link href="../catto.css" rel="stylesheet" />-->
+         <script src="js/myScript.js" defer></script>
 </head>
 <body>
     <header>
+        <div class="flecheGauche">
+            <img src="../icons8-flèche-gauche-26.png" alt="flèche">
+        </div>
+        <div class="container" onclick="myFunction(this)">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+          </div>
         <h3 id="profil">Profil</h3>
         <div id="description">
             <img src="iconesfoodyspot/user.svg" alt="image de profil">
@@ -23,7 +49,7 @@
                 <button id="Modifier">Modifier</button>
             </label>
             <label for="Message">
-                <button id="Message">Message</button>
+                <button id="Deconnexion">Deconnexion</button>
             </label>
         </div>
     </header>
@@ -64,13 +90,13 @@
                
             </div>
             <div id="part2">
-                <img src="../iconesfoodyspot/Charts.png" alt="graphique">
+                <img src="../iconesfoodyspot/Charts.png" alt="graphique" id="Charts">
             </div>
         </section>
         <section id="maVitrine">
             <div id="Vitrine">
                 <h2 id="titre2">Ma Vitrine</h2>
-                <img src="../maquettefinalise/ajouter.svg" alt="ajouter">
+                <img src="../maquettefinalise/ajouter.svg" alt="ajouter" id="ajout">
             </div>
             <div id="plat1" class="plat">
                 <div id="carte">
@@ -83,8 +109,8 @@
                     </div>
                 </div>
                 <div id="avis">
-                    <img src="../wetransfer-2a396d/favoris.svg"  alt="Notation" class="notif"><p>609</p>
-                    <img src="../maquettefinalise/comments.svg" alt="comments" class="comment"><p>10</p>
+                    <img src="../wetransfer-2a396d/favoris.svg"  alt="Notation" class="notif"><p class="nb">609</p>
+                    <img src="../maquettefinalise/comments.svg" alt="comments" class="comment"><p class="nb">10</p>
                 </div>
             </div>
             <div id="plat2" class="plat">
@@ -98,8 +124,8 @@
                     </div>
                     </div>
                     <div id="avis">
-                        <img src="../wetransfer-2a396d/favoris.svg" alt="Notation" class="notif"><p>500</p>
-                        <img src="../maquettefinalise/comments.svg" alt="comments" class="comment"><p>13</p>
+                        <img src="../wetransfer-2a396d/favoris.svg" alt="Notation" class="notif"><p class="nb">500</p>
+                        <img src="../maquettefinalise/comments.svg" alt="comments" class="comment"><p class="nb">13</p>
                     </div>
             </div>
             <div id="plat3" class="plat">
@@ -113,8 +139,8 @@
                     </div>
                     </div>
                     <div id="avis">
-                        <img src="../wetransfer-2a396d/favoris.svg" alt="Notation" class="notif"><p>900</p>
-                        <img src="../maquettefinalise/comments.svg" alt="comments" class="comment"><p>25</p>
+                        <img src="../wetransfer-2a396d/favoris.svg" alt="Notation" class="notif"><p class="nb">900</p>
+                        <img src="../maquettefinalise/comments.svg" alt="comments" class="comment"><p class="nb">25</p>
                     </div>
             </div>
             <div id="plat4" class="plat">
@@ -128,11 +154,53 @@
                     </div>
                     </div>
                     <div id="avis">
-                        <img src="../wetransfer-2a396d/favoris.svg" alt="Notation" class="notif"><p>200</p>
-                        <img src="../maquettefinalise/comments.svg" alt="comments" class="comment"><p>35</p>
+                        <img src="../wetransfer-2a396d/favoris.svg" alt="Notation" class="notif"><p class="nb">200</p>
+                        <img src="../maquettefinalise/comments.svg" alt="comments" class="comment"><p class="nb">35</p>
                     </div>
             </div>
         </section>
     </main>
+     <!-- Footer-->
+     <footer id="myFooter" class="footer bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
+                    <ul class="list-inline mb-2">
+                        <li class="list-inline-item"><a href="#!">About</a></li>
+                        <li class="list-inline-item">⋅</li>
+                        <li class="list-inline-item"><a href="#!">Contact</a></li>
+                        <li class="list-inline-item">⋅</li>
+                        <li class="list-inline-item"><a href="#!">Terms of Use</a></li>
+                        <li class="list-inline-item">⋅</li>
+                        <li class="list-inline-item"><a href="#!">Privacy Policy</a></li>
+                    </ul>
+                    <p class="text-muted small mb-4 mb-lg-0">© Your Website 2021. All Rights Reserved.</p>
+                </div>
+                <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
+                    <ul class="list-inline mb-0">
+                        <li class="list-inline-item mr-3">
+                            <a href="#!"><i class="fab fa-facebook fa-2x fa-fw"></i></a>
+                        </li>
+                        <li class="list-inline-item mr-3">
+                            <a href="#!"><i class="fab fa-twitter-square fa-2x fa-fw"></i></a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#!"><i class="fab fa-instagram fa-2x fa-fw"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <!-- Bootstrap core JS-->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+    <!-- Core theme JS-->
+    
+    <script src="js/scripts.js"></script>
+    <script src="js/scrollcat.js"></script>
 </body>
 </html>
