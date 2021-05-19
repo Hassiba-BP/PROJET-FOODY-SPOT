@@ -1,4 +1,25 @@
 /*header*/
+.flecheGauche{
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    right: 45%;
+}
+.container {
+    display: inline-block;
+    cursor: pointer;
+     position: relative;
+     left: 45%;
+  }
+  
+  .bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+
 header{
     text-align: center;
     font-family: 'Lato', sans-serif;
@@ -204,6 +225,34 @@ a{
     padding-right: 50px;
     width: 50px;
     cursor: pointer;
+}
+
+/*footer*/
+.col-lg-6{
+    position: relative;
+    right: 50%;
+}
+#myFooter{
+    background-color:#FFB500 ;
+    margin-top: 15%;
+    padding: 5% 0 5% 0 ;
+}
+.mb-2{
+    display: flex;
+    list-style:none ;
+
+}
+
+.mb-0{
+    display: flex;
+    list-style: none;
+    position: relative;
+    left: 50%;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
 }
 
 /*Responsive*/

@@ -1,0 +1,254 @@
+:root{
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    position: relative;;
+}
+#buttonHeader{
+    position: fixed;
+    right: 5%;
+    top: 17%;
+    z-index: 400;
+    background-color: #ffffff;
+    color: black;
+}
+h1.myFoodies{
+    position: fixed;
+    z-index: 600;
+    left: 15%;
+    font-family: "Acme", sans-serif;
+    padding-top: 1.7em;
+}
+h1.myFoodies:hover{
+color: #F25A23;
+}
+#fixed{
+    position: fixed;
+    display: block;
+    z-index: 200;
+    left: 90%;
+}
+.container2{
+    padding: 7em;
+}
+.modalhihi{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 300;
+    background-color: white;
+    width: 45%;
+    height: 90%;
+
+}
+
+.modalhihi p{
+    color: black;
+}
+
+#myOverlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .5);
+    z-index: 200;
+    display: none;
+
+}
+#navBack{
+    background-color: #FFB500 !important;
+}
+
+#modalSupp{
+    position: relative;
+}
+#btnColor{
+    background-color: unset;
+    border: unset;
+    position: fixed;
+    right: 14VW;
+    top: 6%;
+    z-index: 300;
+}
+#btnColor img{
+    width: 90%;
+}
+
+#connexion{
+    position: fixed;
+    right: 15%;
+    top: 20%;
+    z-index: 300;
+    background-color: white;
+    border-radius: 0mm;
+    color: black;
+    border: unset;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+#connexion:hover{
+    color: #65BF0C;
+}
+h1{
+    color: black;
+    font-family: "Acme" sans-serif;
+}
+
+#myHeader{
+   margin: 40vh 0 0 15vw;
+    text-align: left;
+    font-family: "Lato", sans-serif;
+    font-size: 1.8em;
+    color: black;
+}
+#inputBTN {
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    border-radius: 0mm;
+}
+
+#inputBTN:hover{
+    background-color: #BFBABA;
+    border: unset;
+}
+.btn-primary{
+    border-radius: 0mm;
+}
+
+.btn-primary:hover{
+    background-color: #BFBABA;
+    border: unset;
+}
+#closeButton{
+    position: fixed;
+    right: 4%;
+    top: 4%;
+}
+#modalPrem .show{
+    display: block;
+}
+
+
+#myContainer:first-child{
+    padding-bottom: 1em;
+}
+iframe{
+    width: 40vw;
+    height: 50vh;
+
+}
+#mapH2{
+    padding: 3vh 0 1vh 0;
+
+}
+
+#mapInfo li{
+    text-decoration: none;
+    color: #000;
+    list-style: none;
+    text-align:left;
+    font-size: 1.2rem;
+    line-height: 2.3em;
+}
+
+#mapH2{
+    color: #F25A23;
+    text-align: left;
+    padding-left: 1.2em;
+}
+#mapH2, #mapInfo li{
+    font-family: 'Lato', sans-serif;
+}
+#rowHeader{
+    display: block;
+}
+
+#reseauSoc{
+    text-align: center;
+
+}
+
+#iconSoc{
+    width: 130px;
+    margin: 0 0 0 40vh ;
+}
+
+h1.myFoodiesFooter{
+    font-family: "Acme", sans-serif;
+    font-size: 1.8rem;
+    margin: 0 80vw 0 0;
+}
+h1.myFoodiesFooter:hover{
+color: #F25A23;
+}
+
+.list-inline-item{
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+#reseaux {
+margin: 5vh 0 0 5vh !important; 
+}
+#reseaux ul .ist-inline{
+    justify-content: space-between !important;
+    
+}
+@media (min-width: 992px){
+    .text-muted {
+        text-align: left !important;
+    }
+}
+/* MOBILE */
+
+@media (max-width: 576px) {
+    .row{
+    display: flex;
+    flex-direction: column;
+    }
+    h1.myFoodies{
+        font-size: 150%;
+        margin-top: 1em;
+        left: 8%;
+    }
+    #myHeader{
+        font-size: 1.5em;
+        padding: 0 1em 0 1em;
+        margin: 35vh 0 0 0;
+    }
+    #btnColor{
+        right: 8%;
+        top: 5%;
+        width: 17%;
+        height: 15%;
+    }
+    #btnColor img{
+    width: 100%;
+    }
+    #connexion{
+        top: 20%;
+        font-size: 1rem;
+        right: 10%;
+    }
+    iframe{
+        width: 84vw;
+        height: 44vh;
+    }
+    #mapInfo{
+        margin-left: -6%;
+    }
+    #mapInfo li{
+        text-decoration: none;
+        color: #000;
+        list-style: none;
+        text-align:left;
+        font-size: 0.93rem;
+        line-height: 2em;
+    }
+}
